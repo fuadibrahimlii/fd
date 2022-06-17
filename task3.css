@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul{
+  text-align: center;
+}
+
+.navbar ul li{
+    display: inline-block;
+    padding: 20px;
+    color: rgb(31, 108, 108);
+    font-weight: bold;
+    list-style: none;
+    font-size: medium;
+}
+
+img{
+    width: 100%;
+    background-image: url(/task3\ photo.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+p{
+    
+    
+    margin-left: 25%;
+    width: 50%;
+    
+    
+    
+}
+
+button{
+    background-color: rgb(40, 132, 132);
+    border: 0px solid aqua;
+    color: white;
+    padding: 15px;
+    margin: 30px;
+    position: relative;
+    left: 45%;
+    
+}
